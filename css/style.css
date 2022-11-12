@@ -1,0 +1,99 @@
+body { 
+    margin: 0px;
+    text-align: center;
+    background-color: #252A34;
+    font-size: 20px;
+    color: #BCEAD5;
+}
+
+
+h1 {
+    margin: 100px auto 0 auto;
+    font-size: 75px;
+    line-height: 2px;
+    color: #252A34;
+    font-family: 'Cormorant Garamond', serif
+
+}
+
+a {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    color: #BCEAD5;
+}
+
+.footer-link {
+    font-size: 20px;
+    margin: auto 40px auto 40px;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2.5rem;
+    color: #BCEAD5;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 180%;
+    padding-bottom: 20px;
+}
+
+.judul {
+    background-color: #8EC3B0;
+    padding-bottom: 25px;
+    padding-top: 70px;
+ 
+}
+
+.logokomp {
+    width: 25%;
+    float: right;
+    margin-left: 5%;
+}
+
+.middle-container {
+    text-align: left;
+    width: 50%; 
+    margin: 30px auto 100px auto;
+    line-height: 1;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #8EC3B0;
+    font-size: 20px;
+    background: #252A34;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #F6F6C9;
+    color: #252A34;
+    text-decoration: none;
+  }
+
+.contact-me{
+    background-color: #8EC3B0;
+    color: #252A34;
+    padding-bottom: 3%;
+}
+
+.bottom-container {
+    background-color: #252A34;
+    color: #8EC3B0;
+}
+::selection {
+    color: #252A34;
+    background: #F6F6C9;
+  }
+
